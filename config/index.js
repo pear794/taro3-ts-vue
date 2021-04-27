@@ -1,8 +1,8 @@
 /*
  * @Author: your name
  * @Date: 2021-04-26 23:20:29
- * @LastEditTime: 2021-04-26 23:59:00
- * @LastEditors: your name
+ * @LastEditTime: 2021-04-27 21:54:27
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \taro3-vue-ts\config\index.js
  */
@@ -42,7 +42,7 @@ const config = {
         }
       },
       cssModules: {
-        enable: true, // 默认为 false，如需使用 css modules 功能，则设为 true
+        enable: false, // 默认为 false，如需使用 css modules 功能，则设为 true
         config: {
           namingPattern: 'global', // 转换模式，取值为 global/module
           generateScopedName: '[name]__[local]___[hash:base64:5]'

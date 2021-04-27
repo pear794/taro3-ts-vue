@@ -1,5 +1,13 @@
+/*
+ * @Author: your name
+ * @Date: 2021-04-27 00:04:56
+ * @LastEditTime: 2021-04-27 21:22:39
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \taro3-ts-vue\src\app.ts
+ */
 import { createApp } from 'vue'
-import store from './store'
+import store from './store/store'
 
 import './app.less'
 
